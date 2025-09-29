@@ -42,12 +42,12 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           gui: <Gui />,
           help: <Help />,
           history: <History />,
-          projects: <Projects />,
-          pwd: <GeneralOutput>/home/satnaing</GeneralOutput>,
+          // projects: <Projects />,
+          pwd: <GeneralOutput>/home/nvtai24</GeneralOutput>,
           socials: <Socials />,
           themes: <Themes />,
           welcome: <Welcome />,
-          whoami: <GeneralOutput>visitor</GeneralOutput>,
+          whoami: <GeneralOutput>anonymous-potato</GeneralOutput>,
         }[cmd]
       }
     </OutputContainer>

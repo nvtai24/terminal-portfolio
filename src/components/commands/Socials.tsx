@@ -52,26 +52,20 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/satnaing",
+    url: "https://github.com/nvtai24",
     tab: 3,
   },
   {
     id: 2,
-    title: "Dev.to",
-    url: "https://dev.to/satnaing",
-    tab: 3,
-  },
-  {
-    id: 3,
     title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
+    url: "https://www.facebook.com/nvtai24",
     tab: 1,
   },
   {
-    id: 4,
-    title: "Instagram",
-    url: "https://instagram.com/satnaing.dev",
-    tab: 0,
+    id: 3,
+    title: "LinkedIn",
+    url: "https://www.linkedin.com/in/nvtai24/",
+    tab: 1,
   },
 ];
 
