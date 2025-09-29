@@ -6,8 +6,6 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test:once": "vitest run",
-    "test": "vitest",
     "coverage": "vitest run --coverage",
     "prepare": "husky install",
     "lint": "eslint .",
